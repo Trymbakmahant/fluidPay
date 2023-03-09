@@ -20,5 +20,8 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^2.0.2",
     "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "react-icons": "^4.8.0"
   }
 }
